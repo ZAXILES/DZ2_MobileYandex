@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add">Добавить</string>
+    <string name="app_name">GalleryClean</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="img_cd">Изображение</string>
+    <string name="search_placeholder">Поиск по автору</string>
+    <string name="toggle_view">Список/Сетка</string>
+    <style name="Theme.GalleryClean" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

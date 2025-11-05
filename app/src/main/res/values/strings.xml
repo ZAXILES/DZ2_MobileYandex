@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GalleryClean</string>
+    <string name="search_placeholder">Поиск по автору</string>
+    <string name="toggle_view">Список/Сетка</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="add">Добавить</string>
+    <string name="img_cd">Изображение</string>
+</resources>
